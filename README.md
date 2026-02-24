@@ -52,6 +52,5 @@ Rather than manually downloading installers, I used a CLI package manager to ens
 
 ---
 
-**Author:Innocentia Jiwa  
-**Date:** February 2026  
-**Course:** Google IT Support Professional Certificate# ReadMe
+Author:Innocentia Jiwa  
+Date: February 2026  
