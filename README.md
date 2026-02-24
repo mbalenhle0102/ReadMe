@@ -54,6 +54,8 @@ Rather than manually downloading installers, I used a CLI package manager to ens
 
 ---
 Conclusion
+
+
 I successfully performed core OS tasks using the CLI. By automating user creation and permission scaling, I demonstrated how to manage a system securely and efficiently. These skills are fundamental for any modern IT Power User.
 Author:Innocentia Jiwa  
 Date: February 2026  
