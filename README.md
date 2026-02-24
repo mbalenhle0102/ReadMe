@@ -29,11 +29,15 @@ Rather than manually downloading installers, I used a CLI package manager to ens
 ---
 
 ## 📸 Practical Evidence
-*Check the `/screenshots` folder for visual confirmation of these steps.*
+*Check the `<img width="857" height="465" alt="screenshot 1" src="https://github.com/user-attachments/assets/f723feb8-0c97-4473-84fa-f154ff54f8cf" />
+` folder for visual confirmation of these steps.*
 
-1. **User Creation:** `screenshot-user-mgmt.png`
-2. **Permissions Setup:** `screenshot-acl-config.png`
-3. **Software Installation:** `screenshot-winget-install.png`
+1. **User Creation:** `<img width="847" height="692" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d133de39-dd15-4c79-8e3b-1a16b787277f" />
+`
+2. **Permissions Setup:** `<img width="838" height="340" alt="Screenshot 4" src="https://github.com/user-attachments/assets/89d04dc9-e98e-43df-ba86-6164e58aa9c8" />
+`
+3. **Software Installation:** `<img width="859" height="732" alt="Screenshot 5" src="https://github.com/user-attachments/assets/e108ad4d-bf83-4bb4-8da4-6621d5ff6562" />
+`
 
 ---
 
