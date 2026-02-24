@@ -1,4 +1,6 @@
 OS Power User: User & File Management Exercise 
+Introduction
+This project demonstrates proficiency in Windows system administration using PowerShell. The goal is to move beyond the GUI to manage users, file permissions, and software installation via the command line, which is essential for automation and efficiency in an IT environment.
 
 This project was completed as part of **Course 3: Operating Systems and You – Becoming a Power User**. It demonstrates proficiency in system administration tasks using the command line interface (CLI), specifically focusing on Windows PowerShell.
 
@@ -51,6 +53,7 @@ Rather than manually downloading installers, I used a CLI package manager to ens
 | Automation | winget (CLI) |
 
 ---
-
+Conclusion
+I successfully performed core OS tasks using the CLI. By automating user creation and permission scaling, I demonstrated how to manage a system securely and efficiently. These skills are fundamental for any modern IT Power User.
 Author:Innocentia Jiwa  
 Date: February 2026  
