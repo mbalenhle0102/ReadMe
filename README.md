@@ -1,17 +1,16 @@
-# OS Power User: User & File Management Exercise 💻
+OS Power User: User & File Management Exercise 
 
 This project was completed as part of **Course 3: Operating Systems and You – Becoming a Power User**. It demonstrates proficiency in system administration tasks using the command line interface (CLI), specifically focusing on Windows PowerShell.
 
-## 🎯 Project Objectives
+ Project Objectives
 * **User & Group Management:** Creating local accounts and assigning roles.
 * **Security & Permissions:** Managing Access Control Lists (ACLs) for files.
 * **Package Management:** Automating software installation via `winget`.
 
 ---
+Tasks Performed
 
-## 🛠️ Tasks Performed
-
-### 1. User and Group Management
+1. User and Group Management
 I utilized PowerShell to manage system identities without a GUI. This is a critical skill for managing servers and remote environments.
 * **Commands used:** `New-LocalUser`, `New-LocalGroup`, `Add-LocalGroupMember`
 * **Outcome:** Created a restricted user and assigned them to a specific security group.
@@ -27,29 +26,23 @@ Rather than manually downloading installers, I used a CLI package manager to ens
 * **Outcome:** Successfully installed **Notepad++** via the Windows Package Manager.
 
 ---
-
-## 📸 Practical Evidence
-Check the 
-
-` folder for visual confirmation of these steps.*
-<img width="857" height="465" alt="screenshot 1" src="https://github.com/user-attachments/assets/b2ecf249-ab73-478d-a084-ff3af2b3acd2" />
+ Practical Evidence
 
 1. User Creation:
- <img width="847" height="692" alt="Screenshot 3" src="https://github.com/user-attachments/assets/107b160a-22ee-4552-9e38-d03ca263f893" />
+<img width="791" height="378" alt="powershell1" src="https://github.com/user-attachments/assets/9139ffe7-feae-45e0-a2b8-8ee7e3f02110" />
 
 
-3. Permissions Setup:
- <img width="838" height="340" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c5565dc0-1ec9-4a13-963b-0ffad71d40e8" />
+2. Permissions Setup:
+<img width="798" height="384" alt="powershell2" src="https://github.com/user-attachments/assets/e8a6ab79-1a90-4a9e-b9a1-b63a50bbca71" />
+
 
 `
-4. Software Installation
-<img width="854" height="729" alt="image" src="https://github.com/user-attachments/assets/27780c22-877a-4deb-9be1-bfca4a5a53a1" />
+3. Software Installation
+<img width="1045" height="390" alt="powershell3" src="https://github.com/user-attachments/assets/10386be0-4326-41f9-9ee5-eddc20a79ba3" />
+
  
-`
 
----
-
-## 🧠 Skills Demonstrated
+ Skills Demonstrated
 | Skill | Tool/Tech |
 | :--- | :--- |
 | System Administration | Windows PowerShell |
@@ -59,6 +52,6 @@ Check the
 
 ---
 
-**Author:** [Your Name]  
+**Author:Innocentia Jiwa  
 **Date:** February 2026  
 **Course:** Google IT Support Professional Certificate# ReadMe
