@@ -35,15 +35,15 @@ Check the
 <img width="857" height="465" alt="screenshot 1" src="https://github.com/user-attachments/assets/b2ecf249-ab73-478d-a084-ff3af2b3acd2" />
 
 1. User Creation:
-2. <img width="847" height="692" alt="Screenshot 3" src="https://github.com/user-attachments/assets/107b160a-22ee-4552-9e38-d03ca263f893" />
+ <img width="847" height="692" alt="Screenshot 3" src="https://github.com/user-attachments/assets/107b160a-22ee-4552-9e38-d03ca263f893" />
 
-`
+
 3. Permissions Setup:
-4. <img width="838" height="340" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c5565dc0-1ec9-4a13-963b-0ffad71d40e8" />
+ <img width="838" height="340" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c5565dc0-1ec9-4a13-963b-0ffad71d40e8" />
 
 `
 4. Software Installation
-4.<img width="854" height="729" alt="image" src="https://github.com/user-attachments/assets/27780c22-877a-4deb-9be1-bfca4a5a53a1" />
+<img width="854" height="729" alt="image" src="https://github.com/user-attachments/assets/27780c22-877a-4deb-9be1-bfca4a5a53a1" />
  
 `
 
