@@ -29,14 +29,22 @@ Rather than manually downloading installers, I used a CLI package manager to ens
 ---
 
 ## 📸 Practical Evidence
-*Check the `<img width="857" height="465" alt="screenshot 1" src="https://github.com/user-attachments/assets/f723feb8-0c97-4473-84fa-f154ff54f8cf" />
-` folder for visual confirmation of these steps.*
+Check the 
 
-1. **User Creation:** `<img width="847" height="692" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d133de39-dd15-4c79-8e3b-1a16b787277f" />
+` folder for visual confirmation of these steps.*
+<img width="857" height="465" alt="screenshot 1" src="https://github.com/user-attachments/assets/b2ecf249-ab73-478d-a084-ff3af2b3acd2" />
+
+1. User Creation:
+2. <img width="847" height="692" alt="Screenshot 3" src="https://github.com/user-attachments/assets/107b160a-22ee-4552-9e38-d03ca263f893" />
+
 `
-2. **Permissions Setup:** `<img width="838" height="340" alt="Screenshot 4" src="https://github.com/user-attachments/assets/89d04dc9-e98e-43df-ba86-6164e58aa9c8" />
+3. Permissions Setup:
+4. <img width="838" height="340" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c5565dc0-1ec9-4a13-963b-0ffad71d40e8" />
+
 `
-3. **Software Installation:** `<img width="859" height="732" alt="Screenshot 5" src="https://github.com/user-attachments/assets/e108ad4d-bf83-4bb4-8da4-6621d5ff6562" />
+4. Software Installation
+4.<img width="854" height="729" alt="image" src="https://github.com/user-attachments/assets/27780c22-877a-4deb-9be1-bfca4a5a53a1" />
+ 
 `
 
 ---
